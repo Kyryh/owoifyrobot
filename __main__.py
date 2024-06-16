@@ -40,9 +40,9 @@ def get_settings_text(current_setting: str):
     text = (
         "Choose a level between these three:\n\n" 
 
-        "• owo : The most vanilla one\n" 
-        "• uwu (default): The moderate one\n" 
-        "• uvu: Literally unreadable\n\n" 
+        "• <b>owo</b>: The most vanilla one\n" 
+        "• <b>uwu</b>: The moderate one (default)\n" 
+        "• <b>uvu</b>: Literally unreadable\n\n" 
         
         f"Current level: <b>{current_setting}</b>\n\n" 
             
